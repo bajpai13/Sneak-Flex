@@ -23,7 +23,7 @@ This website contains a very attractive and customised interface.
 
 - I have used GSAP for the first time for scroll animation purposes. All the CDN Scripts are well written in the code.
 
-- This is note the complete project. I am working on its scalability and will add more features soon.
+- This is not the complete project. I am working on its scalability and will add more features soon.
 
 ## Acknowledgements
 
